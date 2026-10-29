@@ -1,0 +1,9 @@
+site_name: Promo Drop buyer's guide to Whop
+site_url: https://promodrop.readthedocs.io/
+repo_url: https://github.com/promodrop/whop-buyers-guide
+site_description: Plain notes for people buying memberships, courses and communities on Whop.
+nav:
+  - Home: index.md
+  - Free trials: free-trials.md
+  - Cancelling a membership: cancelling.md
+  - What a sale costs the seller: fees.md
